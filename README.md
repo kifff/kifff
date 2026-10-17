@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @kifff
-- 👀 I’m interested in BackEnd Engineering and 
-- 🌱 I’m currently learning PHP , JavaScript 
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
+- 👀 I’m interested in BackEnd , IoT and AI
+- 🌱 I’m currently learning combination of AI and IoT
+- 💞️ I’m looking to collaborate on IT job
+- 📫 How to reach me ? dm 
+<!--- - 😄 Pronouns: ... --->
 - ⚡ Fun fact: ...
 
 <!---
